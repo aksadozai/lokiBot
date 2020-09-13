@@ -1,0 +1,7 @@
+{
+	"prefix": "~",
+	"token": "bot token goes here",
+	"voiceChann": "voice channel one goes here",
+	"voiceChann2": "voice channel two goes here",
+	"chann": "text channel for welcome message goes here"
+}
